@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1733300457220,522,HTTP Request,200,OK,Saucedemo Group 1-2,text,true,,59959,238,10,10,https://saucelabs.com:443/,65,0,30
+1733300457220,65,HTTP Request-0,301,Moved Permanently,Saucedemo Group 1-2,text,true,,192,117,10,10,http://saucelabs.com/,65,0,30
+1733300457286,456,HTTP Request-1,200,OK,Saucedemo Group 1-2,text,true,,59767,121,10,10,https://saucelabs.com:443/,456,0,89
+1733300457309,548,HTTP Request,200,OK,Saucedemo Group 1-3,text,true,,59959,238,10,10,https://saucelabs.com:443/,79,0,33
+1733300457309,79,HTTP Request-0,301,Moved Permanently,Saucedemo Group 1-3,text,true,,192,117,10,10,http://saucelabs.com/,79,0,33
+1733300457388,469,HTTP Request-1,200,OK,Saucedemo Group 1-3,text,true,,59767,121,10,10,https://saucelabs.com:443/,468,0,294
+1733300457093,807,HTTP Request,200,OK,Saucedemo Group 1-1,text,true,,59959,238,10,10,https://saucelabs.com:443/,171,0,138
+1733300457093,171,HTTP Request-0,301,Moved Permanently,Saucedemo Group 1-1,text,true,,192,117,10,10,http://saucelabs.com/,171,0,138
+1733300457265,635,HTTP Request-1,200,OK,Saucedemo Group 1-1,text,true,,59767,121,10,10,https://saucelabs.com:443/,635,0,80
+1733300457972,558,HTTP Request,200,OK,Saucedemo Group 1-7,text,true,,59959,238,7,7,https://saucelabs.com:443/,74,0,45
+1733300457972,74,HTTP Request-0,301,Moved Permanently,Saucedemo Group 1-7,text,true,,192,117,7,7,http://saucelabs.com/,74,0,45
+1733300458047,483,HTTP Request-1,200,OK,Saucedemo Group 1-7,text,true,,59767,121,7,7,https://saucelabs.com:443/,482,0,60
+1733300457842,762,HTTP Request,200,OK,Saucedemo Group 1-5,text,true,,59959,238,7,7,https://saucelabs.com:443/,190,0,147
+1733300457842,190,HTTP Request-0,301,Moved Permanently,Saucedemo Group 1-5,text,true,,192,117,7,7,http://saucelabs.com/,190,0,147
+1733300458033,571,HTTP Request-1,200,OK,Saucedemo Group 1-5,text,true,,59767,121,7,7,https://saucelabs.com:443/,571,0,80
+1733300457978,648,HTTP Request,200,OK,Saucedemo Group 1-6,text,true,,59959,238,7,7,https://saucelabs.com:443/,68,0,39
+1733300457978,68,HTTP Request-0,301,Moved Permanently,Saucedemo Group 1-6,text,true,,192,117,7,7,http://saucelabs.com/,68,0,39
+1733300458047,579,HTTP Request-1,200,OK,Saucedemo Group 1-6,text,true,,59767,121,7,7,https://saucelabs.com:443/,579,0,84
+1733300458115,634,HTTP Request,200,OK,Saucedemo Group 1-8,text,true,,59959,238,7,7,https://saucelabs.com:443/,56,0,26
+1733300458115,56,HTTP Request-0,301,Moved Permanently,Saucedemo Group 1-8,text,true,,192,117,7,7,http://saucelabs.com/,56,0,26
+1733300458171,578,HTTP Request-1,200,OK,Saucedemo Group 1-8,text,true,,59767,121,7,7,https://saucelabs.com:443/,577,0,435
+1733300457618,1200,HTTP Request,200,OK,Saucedemo Group 1-4,text,true,,59959,238,7,7,https://saucelabs.com:443/,144,0,101
+1733300457618,144,HTTP Request-0,301,Moved Permanently,Saucedemo Group 1-4,text,true,,192,117,7,7,http://saucelabs.com/,144,0,101
+1733300457762,1056,HTTP Request-1,200,OK,Saucedemo Group 1-4,text,true,,59767,121,7,7,https://saucelabs.com:443/,1055,0,846
+1733300458086,801,HTTP Request,200,OK,Saucedemo Group 1-9,text,true,,59959,238,6,6,https://saucelabs.com:443/,55,0,25
+1733300458086,55,HTTP Request-0,301,Moved Permanently,Saucedemo Group 1-9,text,true,,192,117,6,6,http://saucelabs.com/,55,0,25
+1733300458141,746,HTTP Request-1,200,OK,Saucedemo Group 1-9,text,true,,59767,121,6,6,https://saucelabs.com:443/,746,0,473
+1733300458503,572,HTTP Request,200,OK,Saucedemo Group 1-10,text,true,,59959,238,2,2,https://saucelabs.com:443/,119,0,87
+1733300458503,119,HTTP Request-0,301,Moved Permanently,Saucedemo Group 1-10,text,true,,192,117,2,2,http://saucelabs.com/,119,0,87
+1733300458622,453,HTTP Request-1,200,OK,Saucedemo Group 1-10,text,true,,59767,121,2,2,https://saucelabs.com:443/,452,0,365

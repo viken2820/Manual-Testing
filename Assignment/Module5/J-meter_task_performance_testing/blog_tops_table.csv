@@ -1,0 +1,61 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1733298649125,2272,HTTP Request,200,OK,Tops site 1-1,text,true,,174851,248,10,10,https://www.tops-int.com/blog,20,0,0
+1733298649125,20,HTTP Request-0,301,Moved Permanently,Tops site 1-1,text,true,,359,124,10,10,http://www.tops-int.com/blog,20,0,0
+1733298649145,2252,HTTP Request-1,200,OK,Tops site 1-1,text,true,,174492,124,10,10,https://www.tops-int.com/blog,2163,0,0
+1733298649594,1912,HTTP Request,200,OK,Tops site 1-3,text,true,,174851,248,9,9,https://www.tops-int.com/blog,145,0,0
+1733298649594,145,HTTP Request-0,301,Moved Permanently,Tops site 1-3,text,true,,359,124,9,9,http://www.tops-int.com/blog,145,0,0
+1733298649739,1767,HTTP Request-1,200,OK,Tops site 1-3,text,true,,174492,124,9,9,https://www.tops-int.com/blog,1636,0,0
+1733298649935,2294,HTTP Request,200,OK,Tops site 1-6,text,true,,174812,248,8,8,https://www.tops-int.com/blog,48,0,0
+1733298649935,48,HTTP Request-0,301,Moved Permanently,Tops site 1-6,text,true,,359,124,8,8,http://www.tops-int.com/blog,48,0,0
+1733298649984,2245,HTTP Request-1,200,OK,Tops site 1-6,text,true,,174453,124,8,8,https://www.tops-int.com/blog,2111,0,0
+1733298649876,2402,HTTP Request,200,OK,Tops site 1-4,text,true,,174827,248,7,7,https://www.tops-int.com/blog,36,0,0
+1733298649876,36,HTTP Request-0,301,Moved Permanently,Tops site 1-4,text,true,,359,124,7,7,http://www.tops-int.com/blog,36,0,0
+1733298649912,2366,HTTP Request-1,200,OK,Tops site 1-4,text,true,,174468,124,7,7,https://www.tops-int.com/blog,2174,0,0
+1733298650530,1988,HTTP Request,200,OK,Tops site 1-2,text,true,,174827,248,6,6,https://www.tops-int.com/blog,22,0,0
+1733298650530,22,HTTP Request-0,301,Moved Permanently,Tops site 1-2,text,true,,359,124,6,6,http://www.tops-int.com/blog,22,0,0
+1733298650552,1966,HTTP Request-1,200,OK,Tops site 1-2,text,true,,174468,124,6,6,https://www.tops-int.com/blog,1882,0,0
+1733298650762,2233,HTTP Request,200,OK,Tops site 1-7,text,true,,174851,248,5,5,https://www.tops-int.com/blog,18,0,0
+1733298650762,18,HTTP Request-0,301,Moved Permanently,Tops site 1-7,text,true,,359,124,5,5,http://www.tops-int.com/blog,18,0,0
+1733298650780,2215,HTTP Request-1,200,OK,Tops site 1-7,text,true,,174492,124,5,5,https://www.tops-int.com/blog,2127,0,0
+1733298650885,2368,HTTP Request,200,OK,Tops site 1-5,text,true,,174835,248,4,4,https://www.tops-int.com/blog,21,0,0
+1733298650885,21,HTTP Request-0,301,Moved Permanently,Tops site 1-5,text,true,,359,124,4,4,http://www.tops-int.com/blog,21,0,0
+1733298650906,2347,HTTP Request-1,200,OK,Tops site 1-5,text,true,,174476,124,4,4,https://www.tops-int.com/blog,2233,0,0
+1733298651532,1923,HTTP Request,200,OK,Tops site 1-10,text,true,,174851,248,3,3,https://www.tops-int.com/blog,28,0,0
+1733298651532,28,HTTP Request-0,301,Moved Permanently,Tops site 1-10,text,true,,359,124,3,3,http://www.tops-int.com/blog,28,0,0
+1733298651560,1895,HTTP Request-1,200,OK,Tops site 1-10,text,true,,174492,124,3,3,https://www.tops-int.com/blog,1813,0,0
+1733298652366,1151,HTTP Request,200,OK,Tops site 1-8,text,true,,174835,248,2,2,https://www.tops-int.com/blog,32,0,0
+1733298652366,32,HTTP Request-0,301,Moved Permanently,Tops site 1-8,text,true,,359,124,2,2,http://www.tops-int.com/blog,32,0,0
+1733298652398,1119,HTTP Request-1,200,OK,Tops site 1-8,text,true,,174476,124,2,2,https://www.tops-int.com/blog,1011,0,0
+1733298652530,1071,HTTP Request,200,OK,Tops site 1-9,text,true,,174835,248,1,1,https://www.tops-int.com/blog,25,0,0
+1733298652530,25,HTTP Request-0,301,Moved Permanently,Tops site 1-9,text,true,,359,124,1,1,http://www.tops-int.com/blog,25,0,0
+1733298652555,1046,HTTP Request-1,200,OK,Tops site 1-9,text,true,,174476,124,1,1,https://www.tops-int.com/blog,911,0,0
+1733298932575,2269,HTTP Request,200,OK,Tops site 1-1,text,true,,174827,248,10,10,https://www.tops-int.com/blog,50,0,0
+1733298932575,50,HTTP Request-0,301,Moved Permanently,Tops site 1-1,text,true,,359,124,10,10,http://www.tops-int.com/blog,50,0,0
+1733298932625,2219,HTTP Request-1,200,OK,Tops site 1-1,text,true,,174468,124,10,10,https://www.tops-int.com/blog,2076,0,0
+1733298933086,1908,HTTP Request,200,OK,Tops site 1-3,text,true,,174828,248,10,10,https://www.tops-int.com/blog,22,0,0
+1733298933086,22,HTTP Request-0,301,Moved Permanently,Tops site 1-3,text,true,,359,124,10,10,http://www.tops-int.com/blog,22,0,0
+1733298933108,1886,HTTP Request-1,200,OK,Tops site 1-3,text,true,,174469,124,10,10,https://www.tops-int.com/blog,1740,0,0
+1733298933319,2097,HTTP Request,200,OK,Tops site 1-2,text,true,,174851,248,10,10,https://www.tops-int.com/blog,28,0,0
+1733298933319,28,HTTP Request-0,301,Moved Permanently,Tops site 1-2,text,true,,359,124,10,10,http://www.tops-int.com/blog,28,0,0
+1733298933347,2069,HTTP Request-1,200,OK,Tops site 1-2,text,true,,174492,124,10,10,https://www.tops-int.com/blog,1953,0,0
+1733298933701,2189,HTTP Request,200,OK,Tops site 1-6,text,true,,174851,248,10,10,https://www.tops-int.com/blog,32,0,0
+1733298933701,32,HTTP Request-0,301,Moved Permanently,Tops site 1-6,text,true,,359,124,10,10,http://www.tops-int.com/blog,32,0,0
+1733298933734,2156,HTTP Request-1,200,OK,Tops site 1-6,text,true,,174492,124,10,10,https://www.tops-int.com/blog,2073,0,0
+1733298934580,1915,HTTP Request,200,OK,Tops site 1-5,text,true,,174851,248,9,9,https://www.tops-int.com/blog,31,0,0
+1733298934580,31,HTTP Request-0,301,Moved Permanently,Tops site 1-5,text,true,,359,124,9,9,http://www.tops-int.com/blog,31,0,0
+1733298934612,1883,HTTP Request-1,200,OK,Tops site 1-5,text,true,,174492,124,9,9,https://www.tops-int.com/blog,1801,0,0
+1733298933959,2767,HTTP Request,200,OK,Tops site 1-4,text,true,,174828,248,9,9,https://www.tops-int.com/blog,25,0,0
+1733298933959,25,HTTP Request-0,301,Moved Permanently,Tops site 1-4,text,true,,359,124,9,9,http://www.tops-int.com/blog,25,0,0
+1733298933984,2742,HTTP Request-1,200,OK,Tops site 1-4,text,true,,174469,124,9,9,https://www.tops-int.com/blog,2661,0,0
+1733298934725,2336,HTTP Request,200,OK,Tops site 1-7,text,true,,174835,248,8,8,https://www.tops-int.com/blog,63,0,0
+1733298934725,63,HTTP Request-0,301,Moved Permanently,Tops site 1-7,text,true,,359,124,8,8,http://www.tops-int.com/blog,63,0,0
+1733298934789,2272,HTTP Request-1,200,OK,Tops site 1-7,text,true,,174476,124,8,8,https://www.tops-int.com/blog,2136,0,0
+1733298934994,2239,HTTP Request,200,OK,Tops site 1-8,text,true,,174851,248,8,8,https://www.tops-int.com/blog,24,0,0
+1733298934994,24,HTTP Request-0,301,Moved Permanently,Tops site 1-8,text,true,,359,124,8,8,http://www.tops-int.com/blog,24,0,0
+1733298935018,2215,HTTP Request-1,200,OK,Tops site 1-8,text,true,,174492,124,8,8,https://www.tops-int.com/blog,1958,0,0
+1733298935655,2510,HTTP Request,200,OK,Tops site 1-9,text,true,,174827,248,6,6,https://www.tops-int.com/blog,22,0,0
+1733298935655,22,HTTP Request-0,301,Moved Permanently,Tops site 1-9,text,true,,359,124,6,6,http://www.tops-int.com/blog,22,0,0
+1733298935677,2488,HTTP Request-1,200,OK,Tops site 1-9,text,true,,174468,124,6,6,https://www.tops-int.com/blog,2228,0,0
+1733298935670,2594,HTTP Request,200,OK,Tops site 1-10,text,true,,174851,248,6,6,https://www.tops-int.com/blog,26,0,0
+1733298935670,26,HTTP Request-0,301,Moved Permanently,Tops site 1-10,text,true,,359,124,6,6,http://www.tops-int.com/blog,26,0,0
+1733298935696,2568,HTTP Request-1,200,OK,Tops site 1-10,text,true,,174492,124,6,6,https://www.tops-int.com/blog,2399,0,0

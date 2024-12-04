@@ -1,0 +1,91 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1733298499124,2135,HTTP Request,200,OK,Tops site 1-3,text,true,,215391,278,10,10,https://www.tops-int.com/webinar/certificate,17,0,0
+1733298499124,17,HTTP Request-0,301,Moved Permanently,Tops site 1-3,text,true,,374,139,10,10,http://www.tops-int.com/webinar/certificate,17,0,0
+1733298499141,2118,HTTP Request-1,200,OK,Tops site 1-3,text,true,,215017,139,10,10,https://www.tops-int.com/webinar/certificate,1833,0,0
+1733298499756,2175,HTTP Request,200,OK,Tops site 1-2,text,true,,215391,278,9,9,https://www.tops-int.com/webinar/certificate,28,0,0
+1733298499756,28,HTTP Request-0,301,Moved Permanently,Tops site 1-2,text,true,,374,139,9,9,http://www.tops-int.com/webinar/certificate,28,0,0
+1733298499784,2147,HTTP Request-1,200,OK,Tops site 1-2,text,true,,215017,139,9,9,https://www.tops-int.com/webinar/certificate,1956,0,0
+1733298500530,2143,HTTP Request,200,OK,Tops site 1-4,text,true,,215391,278,8,8,https://www.tops-int.com/webinar/certificate,26,0,0
+1733298500530,26,HTTP Request-0,301,Moved Permanently,Tops site 1-4,text,true,,374,139,8,8,http://www.tops-int.com/webinar/certificate,26,0,0
+1733298500556,2117,HTTP Request-1,200,OK,Tops site 1-4,text,true,,215017,139,8,8,https://www.tops-int.com/webinar/certificate,1902,0,0
+1733298500556,2500,HTTP Request,200,OK,Tops site 1-1,text,true,,215391,278,7,7,https://www.tops-int.com/webinar/certificate,78,0,0
+1733298500556,78,HTTP Request-0,301,Moved Permanently,Tops site 1-1,text,true,,374,139,7,7,http://www.tops-int.com/webinar/certificate,78,0,0
+1733298500634,2422,HTTP Request-1,200,OK,Tops site 1-1,text,true,,215017,139,7,7,https://www.tops-int.com/webinar/certificate,2070,0,0
+1733298501913,1539,HTTP Request,200,OK,Tops site 1-8,text,true,,215391,278,6,6,https://www.tops-int.com/webinar/certificate,44,0,0
+1733298501913,44,HTTP Request-0,301,Moved Permanently,Tops site 1-8,text,true,,374,139,6,6,http://www.tops-int.com/webinar/certificate,44,0,0
+1733298501957,1495,HTTP Request-1,200,OK,Tops site 1-8,text,true,,215017,139,6,6,https://www.tops-int.com/webinar/certificate,1261,0,0
+1733298501931,1767,HTTP Request,200,OK,Tops site 1-6,text,true,,215367,278,5,5,https://www.tops-int.com/webinar/certificate,25,0,0
+1733298501931,25,HTTP Request-0,301,Moved Permanently,Tops site 1-6,text,true,,374,139,5,5,http://www.tops-int.com/webinar/certificate,25,0,0
+1733298501956,1742,HTTP Request-1,200,OK,Tops site 1-6,text,true,,214993,139,5,5,https://www.tops-int.com/webinar/certificate,1577,0,0
+1733298502868,1055,HTTP Request,200,OK,Tops site 1-7,text,true,,215367,278,4,4,https://www.tops-int.com/webinar/certificate,33,0,0
+1733298502868,33,HTTP Request-0,301,Moved Permanently,Tops site 1-7,text,true,,374,139,4,4,http://www.tops-int.com/webinar/certificate,33,0,0
+1733298502901,1022,HTTP Request-1,200,OK,Tops site 1-7,text,true,,214993,139,4,4,https://www.tops-int.com/webinar/certificate,867,0,0
+1733298502916,1061,HTTP Request,200,OK,Tops site 1-5,text,true,,215391,278,3,3,https://www.tops-int.com/webinar/certificate,17,0,0
+1733298502916,17,HTTP Request-0,301,Moved Permanently,Tops site 1-5,text,true,,374,139,3,3,http://www.tops-int.com/webinar/certificate,17,0,0
+1733298502933,1044,HTTP Request-1,200,OK,Tops site 1-5,text,true,,215017,139,3,3,https://www.tops-int.com/webinar/certificate,752,0,0
+1733298501686,2293,HTTP Request,200,OK,Tops site 1-9,text,true,,215391,278,2,2,https://www.tops-int.com/webinar/certificate,78,0,0
+1733298501686,78,HTTP Request-0,301,Moved Permanently,Tops site 1-9,text,true,,374,139,2,2,http://www.tops-int.com/webinar/certificate,78,0,0
+1733298501764,2215,HTTP Request-1,200,OK,Tops site 1-9,text,true,,215017,139,2,2,https://www.tops-int.com/webinar/certificate,1690,0,0
+1733298504338,560,HTTP Request,200,OK,Tops site 1-10,text,true,,215360,278,1,1,https://www.tops-int.com/webinar/certificate,21,0,0
+1733298504338,21,HTTP Request-0,301,Moved Permanently,Tops site 1-10,text,true,,374,139,1,1,http://www.tops-int.com/webinar/certificate,21,0,0
+1733298504359,539,HTTP Request-1,200,OK,Tops site 1-10,text,true,,214986,139,1,1,https://www.tops-int.com/webinar/certificate,345,0,0
+1733298647312,1813,HTTP Request,200,OK,Tops site 1-1,text,true,,215353,278,10,10,https://www.tops-int.com/webinar/certificate,18,0,0
+1733298647312,18,HTTP Request-0,301,Moved Permanently,Tops site 1-1,text,true,,374,139,10,10,http://www.tops-int.com/webinar/certificate,18,0,0
+1733298647330,1795,HTTP Request-1,200,OK,Tops site 1-1,text,true,,214979,139,10,10,https://www.tops-int.com/webinar/certificate,1674,0,0
+1733298647676,1917,HTTP Request,200,OK,Tops site 1-3,text,true,,215391,278,10,10,https://www.tops-int.com/webinar/certificate,42,0,0
+1733298647676,42,HTTP Request-0,301,Moved Permanently,Tops site 1-3,text,true,,374,139,10,10,http://www.tops-int.com/webinar/certificate,42,0,0
+1733298647718,1875,HTTP Request-1,200,OK,Tops site 1-3,text,true,,215017,139,10,10,https://www.tops-int.com/webinar/certificate,1771,0,0
+1733298648127,1749,HTTP Request,200,OK,Tops site 1-4,text,true,,215391,278,10,10,https://www.tops-int.com/webinar/certificate,21,0,0
+1733298648127,21,HTTP Request-0,301,Moved Permanently,Tops site 1-4,text,true,,374,139,10,10,http://www.tops-int.com/webinar/certificate,21,0,0
+1733298648148,1728,HTTP Request-1,200,OK,Tops site 1-4,text,true,,215017,139,10,10,https://www.tops-int.com/webinar/certificate,1606,0,0
+1733298648126,1809,HTTP Request,200,OK,Tops site 1-6,text,true,,215353,278,10,10,https://www.tops-int.com/webinar/certificate,31,0,0
+1733298648126,31,HTTP Request-0,301,Moved Permanently,Tops site 1-6,text,true,,374,139,10,10,http://www.tops-int.com/webinar/certificate,31,0,0
+1733298648157,1778,HTTP Request-1,200,OK,Tops site 1-6,text,true,,214979,139,10,10,https://www.tops-int.com/webinar/certificate,1698,0,0
+1733298648760,1769,HTTP Request,200,OK,Tops site 1-2,text,true,,215391,278,10,10,https://www.tops-int.com/webinar/certificate,35,0,0
+1733298648760,35,HTTP Request-0,301,Moved Permanently,Tops site 1-2,text,true,,374,139,10,10,http://www.tops-int.com/webinar/certificate,35,0,0
+1733298648795,1734,HTTP Request-1,200,OK,Tops site 1-2,text,true,,215017,139,10,10,https://www.tops-int.com/webinar/certificate,1646,0,0
+1733298648881,1881,HTTP Request,200,OK,Tops site 1-7,text,true,,215367,278,10,10,https://www.tops-int.com/webinar/certificate,55,0,0
+1733298648881,55,HTTP Request-0,301,Moved Permanently,Tops site 1-7,text,true,,374,139,10,10,http://www.tops-int.com/webinar/certificate,55,0,0
+1733298648936,1826,HTTP Request-1,200,OK,Tops site 1-7,text,true,,214993,139,10,10,https://www.tops-int.com/webinar/certificate,1685,0,0
+1733298648946,1939,HTTP Request,200,OK,Tops site 1-5,text,true,,215391,278,10,10,https://www.tops-int.com/webinar/certificate,23,0,0
+1733298648946,23,HTTP Request-0,301,Moved Permanently,Tops site 1-5,text,true,,374,139,10,10,http://www.tops-int.com/webinar/certificate,23,0,0
+1733298648969,1916,HTTP Request-1,200,OK,Tops site 1-5,text,true,,215017,139,10,10,https://www.tops-int.com/webinar/certificate,1823,0,0
+1733298649761,1771,HTTP Request,200,OK,Tops site 1-10,text,true,,215353,278,8,8,https://www.tops-int.com/webinar/certificate,27,0,0
+1733298649761,27,HTTP Request-0,301,Moved Permanently,Tops site 1-10,text,true,,374,139,8,8,http://www.tops-int.com/webinar/certificate,27,0,0
+1733298649788,1744,HTTP Request-1,200,OK,Tops site 1-10,text,true,,214979,139,8,8,https://www.tops-int.com/webinar/certificate,1592,0,0
+1733298650351,2014,HTTP Request,200,OK,Tops site 1-8,text,true,,215345,278,6,6,https://www.tops-int.com/webinar/certificate,17,0,0
+1733298650351,17,HTTP Request-0,301,Moved Permanently,Tops site 1-8,text,true,,374,139,6,6,http://www.tops-int.com/webinar/certificate,17,0,0
+1733298650368,1997,HTTP Request-1,200,OK,Tops site 1-8,text,true,,214971,139,6,6,https://www.tops-int.com/webinar/certificate,1886,0,0
+1733298650356,2174,HTTP Request,200,OK,Tops site 1-9,text,true,,215353,278,5,5,https://www.tops-int.com/webinar/certificate,16,0,0
+1733298650356,16,HTTP Request-0,301,Moved Permanently,Tops site 1-9,text,true,,374,139,5,5,http://www.tops-int.com/webinar/certificate,16,0,0
+1733298650372,2158,HTTP Request-1,200,OK,Tops site 1-9,text,true,,214979,139,5,5,https://www.tops-int.com/webinar/certificate,1920,0,0
+1733298931104,1471,HTTP Request,200,OK,Tops site 1-1,text,true,,215360,278,10,10,https://www.tops-int.com/webinar/certificate,89,0,0
+1733298931104,89,HTTP Request-0,301,Moved Permanently,Tops site 1-1,text,true,,374,139,10,10,http://www.tops-int.com/webinar/certificate,89,0,0
+1733298931193,1382,HTTP Request-1,200,OK,Tops site 1-1,text,true,,214986,139,10,10,https://www.tops-int.com/webinar/certificate,1272,0,0
+1733298931253,1834,HTTP Request,200,OK,Tops site 1-3,text,true,,215391,278,10,10,https://www.tops-int.com/webinar/certificate,22,0,0
+1733298931253,22,HTTP Request-0,301,Moved Permanently,Tops site 1-3,text,true,,374,139,10,10,http://www.tops-int.com/webinar/certificate,22,0,0
+1733298931275,1812,HTTP Request-1,200,OK,Tops site 1-3,text,true,,215017,139,10,10,https://www.tops-int.com/webinar/certificate,1681,0,0
+1733298931522,1798,HTTP Request,200,OK,Tops site 1-2,text,true,,215360,278,10,10,https://www.tops-int.com/webinar/certificate,35,0,0
+1733298931522,35,HTTP Request-0,301,Moved Permanently,Tops site 1-2,text,true,,374,139,10,10,http://www.tops-int.com/webinar/certificate,35,0,0
+1733298931557,1763,HTTP Request-1,200,OK,Tops site 1-2,text,true,,214986,139,10,10,https://www.tops-int.com/webinar/certificate,1493,0,0
+1733298931815,1887,HTTP Request,200,OK,Tops site 1-6,text,true,,215391,278,10,10,https://www.tops-int.com/webinar/certificate,42,0,0
+1733298931815,42,HTTP Request-0,301,Moved Permanently,Tops site 1-6,text,true,,374,139,10,10,http://www.tops-int.com/webinar/certificate,42,0,0
+1733298931857,1845,HTTP Request-1,200,OK,Tops site 1-6,text,true,,215017,139,10,10,https://www.tops-int.com/webinar/certificate,1701,0,0
+1733298932398,1562,HTTP Request,200,OK,Tops site 1-4,text,true,,215353,278,10,10,https://www.tops-int.com/webinar/certificate,34,0,0
+1733298932398,34,HTTP Request-0,301,Moved Permanently,Tops site 1-4,text,true,,374,139,10,10,http://www.tops-int.com/webinar/certificate,34,0,0
+1733298932432,1528,HTTP Request-1,200,OK,Tops site 1-4,text,true,,214979,139,10,10,https://www.tops-int.com/webinar/certificate,1438,0,0
+1733298932422,2159,HTTP Request,200,OK,Tops site 1-5,text,true,,215367,278,10,10,https://www.tops-int.com/webinar/certificate,29,0,0
+1733298932422,29,HTTP Request-0,301,Moved Permanently,Tops site 1-5,text,true,,374,139,10,10,http://www.tops-int.com/webinar/certificate,29,0,0
+1733298932451,2130,HTTP Request-1,200,OK,Tops site 1-5,text,true,,214993,139,10,10,https://www.tops-int.com/webinar/certificate,1944,0,0
+1733298932773,1952,HTTP Request,200,OK,Tops site 1-7,text,true,,215367,278,10,10,https://www.tops-int.com/webinar/certificate,28,0,0
+1733298932773,28,HTTP Request-0,301,Moved Permanently,Tops site 1-7,text,true,,374,139,10,10,http://www.tops-int.com/webinar/certificate,28,0,0
+1733298932801,1924,HTTP Request-1,200,OK,Tops site 1-7,text,true,,214993,139,10,10,https://www.tops-int.com/webinar/certificate,1709,0,0
+1733298933292,1702,HTTP Request,200,OK,Tops site 1-8,text,true,,215353,278,10,10,https://www.tops-int.com/webinar/certificate,24,0,0
+1733298933292,24,HTTP Request-0,301,Moved Permanently,Tops site 1-8,text,true,,374,139,10,10,http://www.tops-int.com/webinar/certificate,24,0,0
+1733298933316,1678,HTTP Request-1,200,OK,Tops site 1-8,text,true,,214979,139,10,10,https://www.tops-int.com/webinar/certificate,1393,0,0
+1733298933700,1955,HTTP Request,200,OK,Tops site 1-9,text,true,,215367,278,10,10,https://www.tops-int.com/webinar/certificate,22,0,0
+1733298933700,22,HTTP Request-0,301,Moved Permanently,Tops site 1-9,text,true,,374,139,10,10,http://www.tops-int.com/webinar/certificate,22,0,0
+1733298933722,1933,HTTP Request-1,200,OK,Tops site 1-9,text,true,,214993,139,10,10,https://www.tops-int.com/webinar/certificate,1836,0,0
+1733298933507,2163,HTTP Request,200,OK,Tops site 1-10,text,true,,215391,278,10,10,https://www.tops-int.com/webinar/certificate,54,0,0
+1733298933507,54,HTTP Request-0,301,Moved Permanently,Tops site 1-10,text,true,,374,139,10,10,http://www.tops-int.com/webinar/certificate,54,0,0
+1733298933561,2109,HTTP Request-1,200,OK,Tops site 1-10,text,true,,215017,139,10,10,https://www.tops-int.com/webinar/certificate,1993,0,0

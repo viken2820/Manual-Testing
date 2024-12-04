@@ -1,0 +1,151 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1733297652627,2191,HTTP Request,200,OK,Tops site 1-2,text,true,,204063,264,10,10,https://www.tops-int.com/study-abroad,82,0,0
+1733297652627,82,HTTP Request-0,301,Moved Permanently,Tops site 1-2,text,true,,367,132,10,10,http://www.tops-int.com/study-abroad,82,0,0
+1733297652709,2109,HTTP Request-1,200,OK,Tops site 1-2,text,true,,203696,132,10,10,https://www.tops-int.com/study-abroad,1830,0,0
+1733297652488,2381,HTTP Request,200,OK,Tops site 1-1,text,true,,204032,264,9,9,https://www.tops-int.com/study-abroad,51,0,0
+1733297652488,51,HTTP Request-0,301,Moved Permanently,Tops site 1-1,text,true,,367,132,9,9,http://www.tops-int.com/study-abroad,51,0,0
+1733297652539,2330,HTTP Request-1,200,OK,Tops site 1-1,text,true,,203665,132,9,9,https://www.tops-int.com/study-abroad,1959,0,0
+1733297653067,2510,HTTP Request,200,OK,Tops site 1-4,text,true,,204032,264,8,8,https://www.tops-int.com/study-abroad,22,0,0
+1733297653067,22,HTTP Request-0,301,Moved Permanently,Tops site 1-4,text,true,,367,132,8,8,http://www.tops-int.com/study-abroad,22,0,0
+1733297653089,2488,HTTP Request-1,200,OK,Tops site 1-4,text,true,,203665,132,8,8,https://www.tops-int.com/study-abroad,2094,0,0
+1733297654321,1951,HTTP Request,200,OK,Tops site 1-7,text,true,,204055,264,7,7,https://www.tops-int.com/study-abroad,80,0,0
+1733297654321,80,HTTP Request-0,301,Moved Permanently,Tops site 1-7,text,true,,367,132,7,7,http://www.tops-int.com/study-abroad,80,0,0
+1733297654401,1871,HTTP Request-1,200,OK,Tops site 1-7,text,true,,203688,132,7,7,https://www.tops-int.com/study-abroad,1449,0,0
+1733297654957,1805,HTTP Request,200,OK,Tops site 1-9,text,true,,204032,264,6,6,https://www.tops-int.com/study-abroad,31,0,0
+1733297654957,31,HTTP Request-0,301,Moved Permanently,Tops site 1-9,text,true,,367,132,6,6,http://www.tops-int.com/study-abroad,31,0,0
+1733297654988,1774,HTTP Request-1,200,OK,Tops site 1-9,text,true,,203665,132,6,6,https://www.tops-int.com/study-abroad,1370,0,0
+1733297655107,1684,HTTP Request,200,OK,Tops site 1-5,text,true,,204039,264,5,5,https://www.tops-int.com/study-abroad,80,0,0
+1733297655107,80,HTTP Request-0,301,Moved Permanently,Tops site 1-5,text,true,,367,132,5,5,http://www.tops-int.com/study-abroad,80,0,0
+1733297655187,1604,HTTP Request-1,200,OK,Tops site 1-5,text,true,,203672,132,5,5,https://www.tops-int.com/study-abroad,1287,0,0
+1733297654337,2478,HTTP Request,200,OK,Tops site 1-3,text,true,,204032,264,4,4,https://www.tops-int.com/study-abroad,45,0,0
+1733297654337,45,HTTP Request-0,301,Moved Permanently,Tops site 1-3,text,true,,367,132,4,4,http://www.tops-int.com/study-abroad,45,0,0
+1733297654383,2432,HTTP Request-1,200,OK,Tops site 1-3,text,true,,203665,132,4,4,https://www.tops-int.com/study-abroad,1786,0,0
+1733297656649,1202,HTTP Request,200,OK,Tops site 1-10,text,true,,204032,264,3,3,https://www.tops-int.com/study-abroad,68,0,0
+1733297656649,68,HTTP Request-0,301,Moved Permanently,Tops site 1-10,text,true,,367,132,3,3,http://www.tops-int.com/study-abroad,68,0,0
+1733297656717,1134,HTTP Request-1,200,OK,Tops site 1-10,text,true,,203665,132,3,3,https://www.tops-int.com/study-abroad,427,0,0
+1733297656795,1180,HTTP Request,200,OK,Tops site 1-8,text,true,,204039,264,2,2,https://www.tops-int.com/study-abroad,63,0,0
+1733297656795,63,HTTP Request-0,301,Moved Permanently,Tops site 1-8,text,true,,367,132,2,2,http://www.tops-int.com/study-abroad,63,0,0
+1733297656858,1117,HTTP Request-1,200,OK,Tops site 1-8,text,true,,203672,132,2,2,https://www.tops-int.com/study-abroad,451,0,0
+1733297657045,1269,HTTP Request,200,OK,Tops site 1-6,text,true,,204039,264,1,1,https://www.tops-int.com/study-abroad,21,0,0
+1733297657045,21,HTTP Request-0,301,Moved Permanently,Tops site 1-6,text,true,,367,132,1,1,http://www.tops-int.com/study-abroad,21,0,0
+1733297657066,1248,HTTP Request-1,200,OK,Tops site 1-6,text,true,,203672,132,1,1,https://www.tops-int.com/study-abroad,440,0,0
+1733297930246,2795,HTTP Request,200,OK,Tops site 1-1,text,true,,204063,264,10,10,https://www.tops-int.com/study-abroad,24,0,0
+1733297930246,24,HTTP Request-0,301,Moved Permanently,Tops site 1-1,text,true,,367,132,10,10,http://www.tops-int.com/study-abroad,24,0,0
+1733297930270,2771,HTTP Request-1,200,OK,Tops site 1-1,text,true,,203696,132,10,10,https://www.tops-int.com/study-abroad,2632,0,0
+1733297931285,2056,HTTP Request,200,OK,Tops site 1-3,text,true,,204032,264,10,10,https://www.tops-int.com/study-abroad,39,0,0
+1733297931285,39,HTTP Request-0,301,Moved Permanently,Tops site 1-3,text,true,,367,132,10,10,http://www.tops-int.com/study-abroad,39,0,0
+1733297931324,2017,HTTP Request-1,200,OK,Tops site 1-3,text,true,,203665,132,10,10,https://www.tops-int.com/study-abroad,1889,0,0
+1733297931111,2366,HTTP Request,200,OK,Tops site 1-2,text,true,,204063,264,10,10,https://www.tops-int.com/study-abroad,79,0,0
+1733297931111,79,HTTP Request-0,301,Moved Permanently,Tops site 1-2,text,true,,367,132,10,10,http://www.tops-int.com/study-abroad,79,0,0
+1733297931190,2287,HTTP Request-1,200,OK,Tops site 1-2,text,true,,203696,132,10,10,https://www.tops-int.com/study-abroad,2152,0,0
+1733297931446,2113,HTTP Request,200,OK,Tops site 1-5,text,true,,204063,264,10,10,https://www.tops-int.com/study-abroad,22,0,0
+1733297931446,22,HTTP Request-0,301,Moved Permanently,Tops site 1-5,text,true,,367,132,10,10,http://www.tops-int.com/study-abroad,22,0,0
+1733297931468,2091,HTTP Request-1,200,OK,Tops site 1-5,text,true,,203696,132,10,10,https://www.tops-int.com/study-abroad,1930,0,0
+1733297932090,1760,HTTP Request,200,OK,Tops site 1-4,text,true,,204063,264,10,10,https://www.tops-int.com/study-abroad,32,0,0
+1733297932090,32,HTTP Request-0,301,Moved Permanently,Tops site 1-4,text,true,,367,132,10,10,http://www.tops-int.com/study-abroad,32,0,0
+1733297932122,1728,HTTP Request-1,200,OK,Tops site 1-4,text,true,,203696,132,10,10,https://www.tops-int.com/study-abroad,1566,0,0
+1733297932479,1642,HTTP Request,200,OK,Tops site 1-9,text,true,,204063,264,10,10,https://www.tops-int.com/study-abroad,30,0,0
+1733297932479,30,HTTP Request-0,301,Moved Permanently,Tops site 1-9,text,true,,367,132,10,10,http://www.tops-int.com/study-abroad,30,0,0
+1733297932509,1612,HTTP Request-1,200,OK,Tops site 1-9,text,true,,203696,132,10,10,https://www.tops-int.com/study-abroad,1469,0,0
+1733297932631,1522,HTTP Request,200,OK,Tops site 1-7,text,true,,204032,264,10,10,https://www.tops-int.com/study-abroad,85,0,0
+1733297932631,85,HTTP Request-0,301,Moved Permanently,Tops site 1-7,text,true,,367,132,10,10,http://www.tops-int.com/study-abroad,85,0,0
+1733297932716,1437,HTTP Request-1,200,OK,Tops site 1-7,text,true,,203665,132,10,10,https://www.tops-int.com/study-abroad,1252,0,0
+1733297932839,1735,HTTP Request,200,OK,Tops site 1-6,text,true,,204039,264,10,10,https://www.tops-int.com/study-abroad,82,0,0
+1733297932839,82,HTTP Request-0,301,Moved Permanently,Tops site 1-6,text,true,,367,132,10,10,http://www.tops-int.com/study-abroad,82,0,0
+1733297932921,1653,HTTP Request-1,200,OK,Tops site 1-6,text,true,,203672,132,10,10,https://www.tops-int.com/study-abroad,1516,0,0
+1733297933820,1658,HTTP Request,200,OK,Tops site 1-10,text,true,,204032,264,6,6,https://www.tops-int.com/study-abroad,56,0,0
+1733297933820,56,HTTP Request-0,301,Moved Permanently,Tops site 1-10,text,true,,367,132,6,6,http://www.tops-int.com/study-abroad,56,0,0
+1733297933876,1602,HTTP Request-1,200,OK,Tops site 1-10,text,true,,203665,132,6,6,https://www.tops-int.com/study-abroad,1401,0,0
+1733297935680,683,HTTP Request,200,OK,Tops site 1-8,text,true,,204039,264,1,1,https://www.tops-int.com/study-abroad,66,0,0
+1733297935680,66,HTTP Request-0,301,Moved Permanently,Tops site 1-8,text,true,,367,132,1,1,http://www.tops-int.com/study-abroad,66,0,0
+1733297935746,617,HTTP Request-1,200,OK,Tops site 1-8,text,true,,203672,132,1,1,https://www.tops-int.com/study-abroad,380,0,0
+1733298494301,2729,HTTP Request,200,OK,Tops site 1-3,text,true,,204047,264,10,10,https://www.tops-int.com/study-abroad,18,0,0
+1733298494301,18,HTTP Request-0,301,Moved Permanently,Tops site 1-3,text,true,,367,132,10,10,http://www.tops-int.com/study-abroad,18,0,0
+1733298494319,2711,HTTP Request-1,200,OK,Tops site 1-3,text,true,,203680,132,10,10,https://www.tops-int.com/study-abroad,2342,0,0
+1733298494659,2791,HTTP Request,200,OK,Tops site 1-2,text,true,,204063,264,10,10,https://www.tops-int.com/study-abroad,31,0,0
+1733298494659,31,HTTP Request-0,301,Moved Permanently,Tops site 1-2,text,true,,367,132,10,10,http://www.tops-int.com/study-abroad,31,0,0
+1733298494691,2759,HTTP Request-1,200,OK,Tops site 1-2,text,true,,203696,132,10,10,https://www.tops-int.com/study-abroad,2636,0,0
+1733298496079,1972,HTTP Request,200,OK,Tops site 1-4,text,true,,204063,264,10,10,https://www.tops-int.com/study-abroad,30,0,0
+1733298496079,30,HTTP Request-0,301,Moved Permanently,Tops site 1-4,text,true,,367,132,10,10,http://www.tops-int.com/study-abroad,30,0,0
+1733298496109,1942,HTTP Request-1,200,OK,Tops site 1-4,text,true,,203696,132,10,10,https://www.tops-int.com/study-abroad,1849,0,0
+1733298495980,2238,HTTP Request,200,OK,Tops site 1-1,text,true,,204063,264,10,10,https://www.tops-int.com/study-abroad,51,0,0
+1733298495980,51,HTTP Request-0,301,Moved Permanently,Tops site 1-1,text,true,,367,132,10,10,http://www.tops-int.com/study-abroad,51,0,0
+1733298496031,2187,HTTP Request-1,200,OK,Tops site 1-1,text,true,,203696,132,10,10,https://www.tops-int.com/study-abroad,2075,0,0
+1733298497136,2079,HTTP Request,200,OK,Tops site 1-9,text,true,,204032,264,10,10,https://www.tops-int.com/study-abroad,31,0,0
+1733298497136,31,HTTP Request-0,301,Moved Permanently,Tops site 1-9,text,true,,367,132,10,10,http://www.tops-int.com/study-abroad,31,0,0
+1733298497167,2048,HTTP Request-1,200,OK,Tops site 1-9,text,true,,203665,132,10,10,https://www.tops-int.com/study-abroad,1874,0,0
+1733298497327,2117,HTTP Request,200,OK,Tops site 1-6,text,true,,204063,264,10,10,https://www.tops-int.com/study-abroad,52,0,0
+1733298497327,52,HTTP Request-0,301,Moved Permanently,Tops site 1-6,text,true,,367,132,10,10,http://www.tops-int.com/study-abroad,52,0,0
+1733298497379,2065,HTTP Request-1,200,OK,Tops site 1-6,text,true,,203696,132,10,10,https://www.tops-int.com/study-abroad,1986,0,0
+1733298497495,2502,HTTP Request,200,OK,Tops site 1-8,text,true,,204032,264,10,10,https://www.tops-int.com/study-abroad,24,0,0
+1733298497495,24,HTTP Request-0,301,Moved Permanently,Tops site 1-8,text,true,,367,132,10,10,http://www.tops-int.com/study-abroad,24,0,0
+1733298497519,2478,HTTP Request-1,200,OK,Tops site 1-8,text,true,,203665,132,10,10,https://www.tops-int.com/study-abroad,2256,0,0
+1733298498600,2162,HTTP Request,200,OK,Tops site 1-5,text,true,,204032,264,10,10,https://www.tops-int.com/study-abroad,17,0,0
+1733298498600,17,HTTP Request-0,301,Moved Permanently,Tops site 1-5,text,true,,367,132,10,10,http://www.tops-int.com/study-abroad,17,0,0
+1733298498617,2145,HTTP Request-1,200,OK,Tops site 1-5,text,true,,203665,132,10,10,https://www.tops-int.com/study-abroad,1987,0,0
+1733298498417,2358,HTTP Request,200,OK,Tops site 1-7,text,true,,204032,264,10,10,https://www.tops-int.com/study-abroad,35,0,0
+1733298498417,35,HTTP Request-0,301,Moved Permanently,Tops site 1-7,text,true,,367,132,10,10,http://www.tops-int.com/study-abroad,35,0,0
+1733298498452,2323,HTTP Request-1,200,OK,Tops site 1-7,text,true,,203665,132,10,10,https://www.tops-int.com/study-abroad,2182,0,0
+1733298502372,1419,HTTP Request,200,OK,Tops site 1-10,text,true,,204063,264,4,4,https://www.tops-int.com/study-abroad,25,0,0
+1733298502372,25,HTTP Request-0,301,Moved Permanently,Tops site 1-10,text,true,,367,132,4,4,http://www.tops-int.com/study-abroad,25,0,0
+1733298502397,1394,HTTP Request-1,200,OK,Tops site 1-10,text,true,,203696,132,4,4,https://www.tops-int.com/study-abroad,1183,0,0
+1733298642961,2621,HTTP Request,200,OK,Tops site 1-1,text,true,,204039,264,10,10,https://www.tops-int.com/study-abroad,35,0,0
+1733298642961,35,HTTP Request-0,301,Moved Permanently,Tops site 1-1,text,true,,367,132,10,10,http://www.tops-int.com/study-abroad,35,0,0
+1733298642997,2585,HTTP Request-1,200,OK,Tops site 1-1,text,true,,203672,132,10,10,https://www.tops-int.com/study-abroad,2457,0,0
+1733298643386,2213,HTTP Request,200,OK,Tops site 1-3,text,true,,204063,264,10,10,https://www.tops-int.com/study-abroad,27,0,0
+1733298643386,27,HTTP Request-0,301,Moved Permanently,Tops site 1-3,text,true,,367,132,10,10,http://www.tops-int.com/study-abroad,27,0,0
+1733298643413,2186,HTTP Request-1,200,OK,Tops site 1-3,text,true,,203696,132,10,10,https://www.tops-int.com/study-abroad,2056,0,0
+1733298644736,1573,HTTP Request,200,OK,Tops site 1-6,text,true,,204016,264,10,10,https://www.tops-int.com/study-abroad,56,0,0
+1733298644736,56,HTTP Request-0,301,Moved Permanently,Tops site 1-6,text,true,,367,132,10,10,http://www.tops-int.com/study-abroad,56,0,0
+1733298644792,1517,HTTP Request-1,200,OK,Tops site 1-6,text,true,,203649,132,10,10,https://www.tops-int.com/study-abroad,1427,0,0
+1733298644778,1793,HTTP Request,200,OK,Tops site 1-4,text,true,,204063,264,10,10,https://www.tops-int.com/study-abroad,21,0,0
+1733298644778,21,HTTP Request-0,301,Moved Permanently,Tops site 1-4,text,true,,367,132,10,10,http://www.tops-int.com/study-abroad,21,0,0
+1733298644799,1772,HTTP Request-1,200,OK,Tops site 1-4,text,true,,203696,132,10,10,https://www.tops-int.com/study-abroad,1555,0,0
+1733298644784,2224,HTTP Request,200,OK,Tops site 1-2,text,true,,204032,264,10,10,https://www.tops-int.com/study-abroad,32,0,0
+1733298644784,32,HTTP Request-0,301,Moved Permanently,Tops site 1-2,text,true,,367,132,10,10,http://www.tops-int.com/study-abroad,32,0,0
+1733298644816,2192,HTTP Request-1,200,OK,Tops site 1-2,text,true,,203665,132,10,10,https://www.tops-int.com/study-abroad,2109,0,0
+1733298644950,2205,HTTP Request,200,OK,Tops site 1-7,text,true,,204063,264,10,10,https://www.tops-int.com/study-abroad,52,0,0
+1733298644950,52,HTTP Request-0,301,Moved Permanently,Tops site 1-7,text,true,,367,132,10,10,http://www.tops-int.com/study-abroad,52,0,0
+1733298645002,2153,HTTP Request-1,200,OK,Tops site 1-7,text,true,,203696,132,10,10,https://www.tops-int.com/study-abroad,2075,0,0
+1733298645477,1986,HTTP Request,200,OK,Tops site 1-5,text,true,,204063,264,10,10,https://www.tops-int.com/study-abroad,45,0,0
+1733298645477,45,HTTP Request-0,301,Moved Permanently,Tops site 1-5,text,true,,367,132,10,10,http://www.tops-int.com/study-abroad,45,0,0
+1733298645522,1941,HTTP Request-1,200,OK,Tops site 1-5,text,true,,203696,132,10,10,https://www.tops-int.com/study-abroad,1815,0,0
+1733298646194,1575,HTTP Request,200,OK,Tops site 1-10,text,true,,204032,264,10,10,https://www.tops-int.com/study-abroad,33,0,0
+1733298646194,33,HTTP Request-0,301,Moved Permanently,Tops site 1-10,text,true,,367,132,10,10,http://www.tops-int.com/study-abroad,33,0,0
+1733298646227,1542,HTTP Request-1,200,OK,Tops site 1-10,text,true,,203665,132,10,10,https://www.tops-int.com/study-abroad,1450,0,0
+1733298646689,1567,HTTP Request,200,OK,Tops site 1-8,text,true,,204063,264,10,10,https://www.tops-int.com/study-abroad,17,0,0
+1733298646689,17,HTTP Request-0,301,Moved Permanently,Tops site 1-8,text,true,,367,132,10,10,http://www.tops-int.com/study-abroad,17,0,0
+1733298646706,1550,HTTP Request-1,200,OK,Tops site 1-8,text,true,,203696,132,10,10,https://www.tops-int.com/study-abroad,1471,0,0
+1733298646925,1718,HTTP Request,200,OK,Tops site 1-9,text,true,,204016,264,10,10,https://www.tops-int.com/study-abroad,20,0,0
+1733298646925,20,HTTP Request-0,301,Moved Permanently,Tops site 1-9,text,true,,367,132,10,10,http://www.tops-int.com/study-abroad,20,0,0
+1733298646945,1698,HTTP Request-1,200,OK,Tops site 1-9,text,true,,203649,132,10,10,https://www.tops-int.com/study-abroad,1590,0,0
+1733298926866,2330,HTTP Request,200,OK,Tops site 1-3,text,true,,204063,264,10,10,https://www.tops-int.com/study-abroad,16,0,0
+1733298926866,16,HTTP Request-0,301,Moved Permanently,Tops site 1-3,text,true,,367,132,10,10,http://www.tops-int.com/study-abroad,16,0,0
+1733298926882,2314,HTTP Request-1,200,OK,Tops site 1-3,text,true,,203696,132,10,10,https://www.tops-int.com/study-abroad,2193,0,0
+1733298927238,2329,HTTP Request,200,OK,Tops site 1-1,text,true,,204063,264,10,10,https://www.tops-int.com/study-abroad,95,0,0
+1733298927238,95,HTTP Request-0,301,Moved Permanently,Tops site 1-1,text,true,,367,132,10,10,http://www.tops-int.com/study-abroad,95,0,0
+1733298927333,2234,HTTP Request-1,200,OK,Tops site 1-1,text,true,,203696,132,10,10,https://www.tops-int.com/study-abroad,2127,0,0
+1733298928898,1328,HTTP Request,200,OK,Tops site 1-6,text,true,,204039,264,10,10,https://www.tops-int.com/study-abroad,120,0,0
+1733298928898,120,HTTP Request-0,301,Moved Permanently,Tops site 1-6,text,true,,367,132,10,10,http://www.tops-int.com/study-abroad,120,0,0
+1733298929018,1208,HTTP Request-1,200,OK,Tops site 1-6,text,true,,203672,132,10,10,https://www.tops-int.com/study-abroad,1001,0,0
+1733298928162,2135,HTTP Request,200,OK,Tops site 1-2,text,true,,204032,264,10,10,https://www.tops-int.com/study-abroad,36,0,0
+1733298928162,36,HTTP Request-0,301,Moved Permanently,Tops site 1-2,text,true,,367,132,10,10,http://www.tops-int.com/study-abroad,36,0,0
+1733298928198,2099,HTTP Request-1,200,OK,Tops site 1-2,text,true,,203665,132,10,10,https://www.tops-int.com/study-abroad,1612,0,0
+1733298928968,1858,HTTP Request,200,OK,Tops site 1-4,text,true,,204016,264,10,10,https://www.tops-int.com/study-abroad,70,0,0
+1733298928968,70,HTTP Request-0,301,Moved Permanently,Tops site 1-4,text,true,,367,132,10,10,http://www.tops-int.com/study-abroad,70,0,0
+1733298929038,1788,HTTP Request-1,200,OK,Tops site 1-4,text,true,,203649,132,10,10,https://www.tops-int.com/study-abroad,1345,0,0
+1733298929055,1889,HTTP Request,200,OK,Tops site 1-5,text,true,,204063,264,10,10,https://www.tops-int.com/study-abroad,51,0,0
+1733298929055,51,HTTP Request-0,301,Moved Permanently,Tops site 1-5,text,true,,367,132,10,10,http://www.tops-int.com/study-abroad,51,0,0
+1733298929106,1838,HTTP Request-1,200,OK,Tops site 1-5,text,true,,203696,132,10,10,https://www.tops-int.com/study-abroad,1626,0,0
+1733298929108,2024,HTTP Request,200,OK,Tops site 1-7,text,true,,204063,264,10,10,https://www.tops-int.com/study-abroad,35,0,0
+1733298929108,35,HTTP Request-0,301,Moved Permanently,Tops site 1-7,text,true,,367,132,10,10,http://www.tops-int.com/study-abroad,35,0,0
+1733298929143,1989,HTTP Request-1,200,OK,Tops site 1-7,text,true,,203696,132,10,10,https://www.tops-int.com/study-abroad,1661,0,0
+1733298929592,1835,HTTP Request,200,OK,Tops site 1-8,text,true,,204063,264,10,10,https://www.tops-int.com/study-abroad,20,0,0
+1733298929592,20,HTTP Request-0,301,Moved Permanently,Tops site 1-8,text,true,,367,132,10,10,http://www.tops-int.com/study-abroad,20,0,0
+1733298929612,1815,HTTP Request-1,200,OK,Tops site 1-8,text,true,,203696,132,10,10,https://www.tops-int.com/study-abroad,1641,0,0
+1733298930590,1370,HTTP Request,200,OK,Tops site 1-9,text,true,,204063,264,10,10,https://www.tops-int.com/study-abroad,109,0,0
+1733298930590,109,HTTP Request-0,301,Moved Permanently,Tops site 1-9,text,true,,367,132,10,10,http://www.tops-int.com/study-abroad,109,0,0
+1733298930699,1261,HTTP Request-1,200,OK,Tops site 1-9,text,true,,203696,132,10,10,https://www.tops-int.com/study-abroad,1120,0,0
+1733298930699,1483,HTTP Request,200,OK,Tops site 1-10,text,true,,204063,264,10,10,https://www.tops-int.com/study-abroad,41,0,0
+1733298930699,41,HTTP Request-0,301,Moved Permanently,Tops site 1-10,text,true,,367,132,10,10,http://www.tops-int.com/study-abroad,41,0,0
+1733298930740,1442,HTTP Request-1,200,OK,Tops site 1-10,text,true,,203696,132,10,10,https://www.tops-int.com/study-abroad,1368,0,0

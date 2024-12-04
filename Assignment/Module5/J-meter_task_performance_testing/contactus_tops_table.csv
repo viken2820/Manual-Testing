@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1733298934844,1445,HTTP Request,200,OK,Tops site 1-1,text,true,,309831,260,10,10,https://www.tops-int.com/contact-us,95,0,0
+1733298934844,95,HTTP Request-0,301,Moved Permanently,Tops site 1-1,text,true,,365,130,10,10,http://www.tops-int.com/contact-us,95,0,0
+1733298934939,1350,HTTP Request-1,200,OK,Tops site 1-1,text,true,,309466,130,10,10,https://www.tops-int.com/contact-us,1198,0,0
+1733298934994,1982,HTTP Request,200,OK,Tops site 1-3,text,true,,309855,260,9,9,https://www.tops-int.com/contact-us,22,0,0
+1733298934994,22,HTTP Request-0,301,Moved Permanently,Tops site 1-3,text,true,,365,130,9,9,http://www.tops-int.com/contact-us,22,0,0
+1733298935017,1959,HTTP Request-1,200,OK,Tops site 1-3,text,true,,309490,130,9,9,https://www.tops-int.com/contact-us,1733,0,0
+1733298935416,2095,HTTP Request,200,OK,Tops site 1-2,text,true,,309823,260,8,8,https://www.tops-int.com/contact-us,28,0,0
+1733298935416,28,HTTP Request-0,301,Moved Permanently,Tops site 1-2,text,true,,365,130,8,8,http://www.tops-int.com/contact-us,28,0,0
+1733298935444,2067,HTTP Request-1,200,OK,Tops site 1-2,text,true,,309458,130,8,8,https://www.tops-int.com/contact-us,1789,0,0
+1733298935890,2015,HTTP Request,200,OK,Tops site 1-6,text,true,,309855,260,7,7,https://www.tops-int.com/contact-us,33,0,0
+1733298935890,33,HTTP Request-0,301,Moved Permanently,Tops site 1-6,text,true,,365,130,7,7,http://www.tops-int.com/contact-us,33,0,0
+1733298935923,1982,HTTP Request-1,200,OK,Tops site 1-6,text,true,,309490,130,7,7,https://www.tops-int.com/contact-us,1768,0,0
+1733298936495,1830,HTTP Request,200,OK,Tops site 1-5,text,true,,309855,260,6,6,https://www.tops-int.com/contact-us,24,0,0
+1733298936495,24,HTTP Request-0,301,Moved Permanently,Tops site 1-5,text,true,,365,130,6,6,http://www.tops-int.com/contact-us,24,0,0
+1733298936519,1806,HTTP Request-1,200,OK,Tops site 1-5,text,true,,309490,130,6,6,https://www.tops-int.com/contact-us,1575,0,0
+1733298936726,1879,HTTP Request,200,OK,Tops site 1-4,text,true,,309831,260,5,5,https://www.tops-int.com/contact-us,33,0,0
+1733298936726,33,HTTP Request-0,301,Moved Permanently,Tops site 1-4,text,true,,365,130,5,5,http://www.tops-int.com/contact-us,33,0,0
+1733298936759,1846,HTTP Request-1,200,OK,Tops site 1-4,text,true,,309466,130,5,5,https://www.tops-int.com/contact-us,1557,0,0
+1733298937061,2027,HTTP Request,200,OK,Tops site 1-7,text,true,,309808,260,4,4,https://www.tops-int.com/contact-us,166,0,0
+1733298937061,166,HTTP Request-0,301,Moved Permanently,Tops site 1-7,text,true,,365,130,4,4,http://www.tops-int.com/contact-us,166,0,0
+1733298937227,1861,HTTP Request-1,200,OK,Tops site 1-7,text,true,,309443,130,4,4,https://www.tops-int.com/contact-us,1361,0,0
+1733298938166,938,HTTP Request,200,OK,Tops site 1-9,text,true,,309831,260,3,3,https://www.tops-int.com/contact-us,27,0,0
+1733298938166,27,HTTP Request-0,301,Moved Permanently,Tops site 1-9,text,true,,365,130,3,3,http://www.tops-int.com/contact-us,27,0,0
+1733298938193,911,HTTP Request-1,200,OK,Tops site 1-9,text,true,,309466,130,3,3,https://www.tops-int.com/contact-us,429,0,0
+1733298938265,880,HTTP Request,200,OK,Tops site 1-10,text,true,,309816,260,2,2,https://www.tops-int.com/contact-us,33,0,0
+1733298938265,33,HTTP Request-0,301,Moved Permanently,Tops site 1-10,text,true,,365,130,2,2,http://www.tops-int.com/contact-us,33,0,0
+1733298938298,847,HTTP Request-1,200,OK,Tops site 1-10,text,true,,309451,130,2,2,https://www.tops-int.com/contact-us,474,0,0
+1733298937233,1949,HTTP Request,200,OK,Tops site 1-8,text,true,,309855,260,1,1,https://www.tops-int.com/contact-us,28,0,0
+1733298937233,28,HTTP Request-0,301,Moved Permanently,Tops site 1-8,text,true,,365,130,1,1,http://www.tops-int.com/contact-us,28,0,0
+1733298937261,1921,HTTP Request-1,200,OK,Tops site 1-8,text,true,,309490,130,1,1,https://www.tops-int.com/contact-us,1404,0,0
